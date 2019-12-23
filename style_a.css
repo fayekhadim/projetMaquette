@@ -1,0 +1,154 @@
+*{
+	margin: 0px;
+
+}
+#twiter{	
+	background-color: #4dcaff;
+	color: white;
+	padding: auto;
+	height: 200px;
+	display: inline-block;
+	width: 100%;
+	font-size: 20px;
+	font-family: "Segoe UI";
+}
+#twiter > #twit{
+	position: absolute;
+	right: 200px;
+}
+#imagi{
+	position: absolute;
+	direction: fixed;
+	width: 815px;
+	height: 373px;
+}
+.di1{
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+}
+.trait{
+	border-bottom: 3px solid white;
+}
+.trai{
+	border-bottom: 3px solid black;
+}
+.john{
+	background-image: url('bgphoto1.jpg');
+	background-position: center;
+	color: white;
+	height: 400px;
+	display: flex;
+	font-size: 15px;
+	font-family: "Segoe UI";
+	width: 100%;
+	align-content: space-around;
+	
+	justify-content: space-around;
+}	
+#who{
+	width: 500px;
+	margin-left: 250px;
+	margin-top: 100px;
+	padding-right: 5px;
+	
+}
+#reste{
+	width: 500px;
+	margin-top: 145px;
+	margin-right: 250px;
+}
+.wh{
+	font-size: 20px;
+}
+#testimonial{
+	background-color: white;
+	display: block;
+	font-size: 20px;
+	font-family: "Segoe UI";
+	width: 850px;
+	margin: auto;
+	height: 190px;
+	padding-top: 50px;
+}
+#testy{
+	background-color: white;
+	height: 190px;
+	width: 100%;
+	display: block;
+	padding-bottom: 30px;
+}
+h4{
+	color: #4dcaff;
+}
+#im{
+	float: right;
+}
+#contacts{
+	background-image: url('bgvase1.jpg');
+	background-position: center;
+	height: 700px;
+	color: white;
+}
+.tab{
+	height: 400px;
+	margin: auto;
+	width: 850px;
+	margin-top: 150px;
+}
+#email,#name,#mess{
+	background: none;
+	border: 1.5px solid white;
+	color: white;
+}
+#message{
+	background-color: #4dcaff;
+	width: 250px;
+	height: 50px;
+	color: white;
+	border: none;
+}
+#contacts .con{
+	display: inline-block;
+	position: relative;
+	top: 150px;
+	left: 250px;
+	font-size: 25px;
+	font-family: "Segoe UI";
+}
+#footer{
+	background-color: #353f47;
+	width: 100%;
+	height: 150px;
+	display: flex;
+	color: #4b5860;
+	
+}
+#footer > p{
+	margin-right: 100px;
+	margin-top: 72px;
+}
+#footer > p+p{
+	padding-left: 500px;
+}
+#rs{
+	border: 1px solid white;
+}
+#email,#name{
+	height: 30px;
+}
+.az{
+	margin-left: 150px;
+}
+h2{
+	position: absolute;
+	top: 30px;
+	left: 100px;
+	color: white;
+	z-index: 1000;
+	font-size: 20px;
+}
+.e{
+	color: #4dcaff;
+}

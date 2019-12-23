@@ -1,0 +1,57 @@
+.diapo{
+	width: 800px;
+	height: 500px;
+	margin: auto;
+	background-image: url('1.png');
+
+	-webkit-animation-name: dia;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: normal;
+
+	-webkit-animation-name: dia;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: normal;
+
+	-webkit-animation-name: dia;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: normal;
+
+	-webkit-animation-name: dia;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: normal;
+
+	-webkit-animation-name: dia;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: normal;
+
+	-webkit-animation-name: dia;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: normal;
+
+	-webkit-animation-name: dia;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: normal;
+}
+@-webkit-keyframes dia{
+	14%{background-image: url('1.png');}
+	28%{background-image: url('2.png');}
+	42%{background-image: url('4.png');}
+	56%{background-image: url('5.png');}
+	70%{background-image: url('6.png');}
+	84%{background-image: url('7.png');}
+	95%{background-image: url('8.png');}
+}
